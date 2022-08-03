@@ -1,6 +1,6 @@
-# Acoount Manager MERN app
+# Acoount Manager app
 
-This is the Acoount Manager app f
+This is the Acoount Manager app
 
 ## Usage
 
@@ -22,9 +22,3 @@ npm install
 ```
 npm run server
 ```
-
-## Demo
-
-I am not sure how long this will be up
-
-https://mernappbrad.herokuapp.com/
