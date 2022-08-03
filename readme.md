@@ -1,6 +1,6 @@
 # Acoount Manager MERN app
 
-This is the Acoount Manager app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+This is the Acoount Manager app f
 
 ## Usage
 
