@@ -1,6 +1,6 @@
-# Acoount Manager app
+# Acoount Manager app backend
 
-This is the Acoount Manager app
+This is the Acoount Manager app backend
 
 ## Usage
 
